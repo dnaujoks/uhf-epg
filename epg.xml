@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <!-- Sender News12 New York -->
-  <channel id="news12newyork.us">
+  <channel id="News.12.New.York.us2">
     <display-name>News12 New York</display-name>
     <icon src="https://raw.githubusercontent.com/TV-Logos/news12newyork.png"/>
   </channel>
 
   <!-- Sender CBS News New York -->
-  <channel id="cbsnewsnewyork.us">
+  <channel id="CBS.News.New.York.us2">
     <display-name>CBS News New York</display-name>
     <icon src="https://raw.githubusercontent.com/TV-Logos/cbsnewsnewyork.png"/>
   </channel>
 
   <!-- Programme für News12 New York -->
-  <programme start="20260406120000 +0000" stop="20260406123000 +0000" channel="news12newyork.us">
+  <programme start="20260406120000 +0000" stop="20260406123000 +0000" channel="News.12.New.York.us2">
     <title>Morning Headlines</title>
     <desc>Breaking news and top stories from New Jersey.</desc>
   </programme>
-  <programme start="20260406123000 +0000" stop="20260406130000 +0000" channel="news12newyork.us">
+  <programme start="20260406123000 +0000" stop="20260406130000 +0000" channel="News.12.New.York.us2">
     <title>Local News</title>
     <desc>Coverage of local events and community updates.</desc>
   </programme>
 
   <!-- Programme für CBS News New York -->
-  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="cbsnewsnewyork.us">
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="CBS.News.New.York.us2">
     <title>CBS Morning News</title>
     <desc>Top stories, weather and sports updates from New York.</desc>
   </programme>
-  <programme start="20260406130000 +0000" stop="20260406133000 +0000" channel="cbsnewsnewyork.us">
+  <programme start="20260406130000 +0000" stop="20260406133000 +0000" channel="CBS.News.New.York.us2">
     <title>CBS Midday News</title>
     <desc>Local and national news updates.</desc>
   </programme>
